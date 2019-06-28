@@ -23,7 +23,6 @@
     }
   },
   "metadata": {
-    "displayName": "ILMT Integration Template",
     "providerDisplayName": "Other",
     "longDescription": "This template installs the ILMT BigFix Agent and registers it with the ILMT server",
     "bullets": [{
